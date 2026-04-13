@@ -1,0 +1,1 @@
+﻿# Intelligent-Diagnostic-Assistant-Download
