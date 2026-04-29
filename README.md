@@ -2,6 +2,8 @@
 
 # Intelligent-Diagnostic-Assistant-Download
 <img width="1918" height="1125" alt="image" src="https://github.com/user-attachments/assets/4674c2ac-490d-4fd4-9868-f539ca84ce0a" />
+<img width="1916" height="1150" alt="image" src="https://github.com/user-attachments/assets/f338f692-5764-45c4-bf5e-1d6160725e78" />
+
 <img width="1159" height="1131" alt="Screenshot 2026-04-08 014626" src="https://github.com/user-attachments/assets/1c9a048e-6773-4f86-82b5-3031bb0344d6" />
 <img width="1873" height="1192" alt="Screenshot 2026-04-08 201932" src="https://github.com/user-attachments/assets/67a38c4a-128c-4eac-817f-cbe1c4542bbb" />
 <img width="1550" height="567" alt="Screenshot 2026-04-13 211230" src="https://github.com/user-attachments/assets/49827da1-bb56-469f-ae60-1bc00143b85f" />
