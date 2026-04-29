@@ -1,6 +1,6 @@
 
 
-# Intelligent-Diagnostic-Assistant-Download
+#T.A.R.S Automotive Repair Specialist
 <img width="1918" height="1125" alt="image" src="https://github.com/user-attachments/assets/4674c2ac-490d-4fd4-9868-f539ca84ce0a" />
 <img width="1916" height="1150" alt="image" src="https://github.com/user-attachments/assets/f338f692-5764-45c4-bf5e-1d6160725e78" />
 
