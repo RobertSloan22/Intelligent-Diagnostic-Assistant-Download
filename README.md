@@ -1,3 +1,5 @@
+<img width="1919" height="1135" alt="current-oxygen-analysis" src="https://github.com/user-attachments/assets/1d22cc50-9113-4313-a335-a98f7d582620" />
+<img width="1918" height="1108" alt="sensoranalysis" src="https://github.com/user-attachments/assets/cc703939-09b8-4f18-a845-8d8c2a6f01fa" />
 TARS Automotive Repair Specialist
 
 AI-Powered OBD2 Diagnostic System
